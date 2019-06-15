@@ -1,7 +1,7 @@
 # css3-loading
 css3-loading
 
-##css
+## css
 ```css
 .loading {
 	position: relative;
@@ -55,7 +55,7 @@ css3-loading
 @keyframes r2Animate{from{transform: rotate(0deg);}to  {transform: rotate(-360deg);}}
 ```
 
-##less
+## less
 ```css
 .loading {
 	@width:12px;
